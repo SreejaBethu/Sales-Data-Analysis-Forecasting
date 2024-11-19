@@ -95,7 +95,3 @@ Feel free to reach out if you’d like to know more or collaborate on data proje
 📧 Email: bethusreeja22@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/sreejabethu/
 
-9. Next Steps / Future Scope
-
-    Extend the analysis to include forecasting models using ARIMA or machine learning.
-    Add interactive dashboards for real-time analysis (e.g., Tableau, Power BI).
